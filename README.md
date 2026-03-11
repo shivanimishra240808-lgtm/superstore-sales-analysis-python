@@ -37,11 +37,18 @@ dataset
 scripts  
 → pipeline.py  
 
-output  
-→ category_sales.png  
-→ region_profit.png  
-→ monthly_sales.png  
+## Visual Output
+
+### Category Sales
+![Category Sales](output/category_sales.png)
+
+### Region Profit
+![Region Profit](output/region_profit.png)
+
+### Monthly Sales Trend
+![Monthly Sales](output/monthly_sales.png)
 
 ## Conclusion
 From the analysis, it becomes easier to identify high-performing product categories and profitable regions.  
 The project demonstrates how Python can be used to clean, analyze, and visualize business data.
+
